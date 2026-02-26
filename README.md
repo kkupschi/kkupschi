@@ -1,55 +1,59 @@
-# KRIS KUPSCHI  
-### System Builder • Fullstack Developer  
+# Kris Kupschi  
+### Fullstack Developer  
 
-> Precision forged in industry.  
-> Rebuilt for software architecture.
+Building structured systems — from industrial precision to modern software.
 
 ---
 
-## ORIGIN
+## 👨‍💻 About Me
 
 Born in December 1995.  
-Raised in competitive systems.
 
-Football shaped discipline and performance until 2020.  
-Industry shaped precision and responsibility.  
-Now building digital systems instead of mechanical ones.
+Former industrial professional with experience in manufacturing, precision engineering and process optimization.
+
+Today I’m retraining as a **Fachinformatiker für Anwendungsentwicklung**,  
+currently focused on Frontend development (Angular & TypeScript),  
+with Backend specialization starting in April.
+
+I combine discipline from competitive sports ⚽  
+with structured thinking from industrial environments ⚙  
+to build scalable and maintainable web applications.
 
 ---
 
-## INDUSTRIAL BACKGROUND
+## 🏭 Professional Background
 
-### Zerspanungsmechaniker  
+**Zerspanungsmechaniker**  
 FS Metalltechnik GmbH (2016–2017)  
 Kreiselmeyer GmbH (2017–2018)
 
-### Werkzeugmacher  
-Ceratizit GmbH
+**Werkzeugmacher**  
+Ceratizit GmbH  
 
-### Siemens AG
+**Siemens AG**  
+SMT – PCB manufacturing & solder processing  
+HMI – Assembly, quality assurance, process optimization  
+Training towards machine setup & team responsibility
 
-**SMT (6 months)**  
-PCB production through automated machinery and solder processing.
-
-**HMI (6 months)**  
-Assembly, configuration, quality assurance and process optimization.  
-Trained as machine operator and junior team lead.
-
----
-
-## TRANSFORMATION
-
-Currently in retraining as  
-**Fachinformatiker für Anwendungsentwicklung**
-
-Frontend phase until March.  
-Backend specialization starting April.
-
-Target: Fullstack Architecture & Mentorship.
+Multiple industries.  
+High responsibility.  
+Structured workflows.
 
 ---
 
-## TECH STACK
+## 🚀 Current Path
+
+Retraining as Developer (IHK)
+
+Frontend Phase → until March  
+Backend Phase → starting April  
+
+Long-term goal:  
+Fullstack Development & Technical Mentorship.
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
 ![Tech](https://skillicons.dev/icons?i=html,css,js,ts,angular)
@@ -62,28 +66,26 @@ Target: Fullstack Architecture & Mentorship.
 
 ---
 
-## ACTIVE PROJECTS
+## 📌 Projects
 
-Kochwelt  
-PokeDex  
-Bestell-App  
-BookStore  
-Fotogram  
-Join (Angular + Supabase)
-
----
-
-## SYSTEM OBJECTIVE
-
-Build scalable, structured and intelligent applications.
-
-Long-term vision:
-- Fullstack Developer
-- System Architect
-- Mentor / Technical Educator
+- Kochwelt  
+- PokeDex  
+- Bestell-App  
+- BookStore  
+- Fotogram  
+- Join (Angular + Supabase)
 
 ---
 
-⚡ Discipline from sports.  
-⚙ Precision from industry.  
-💻 Logic rebuilt in code.
+## 📈 Focus
+
+- Clean architecture  
+- Scalable systems  
+- Backend integration  
+- Continuous growth  
+
+---
+
+⚙ Precision.  
+⚽ Discipline.  
+💻 Code.
