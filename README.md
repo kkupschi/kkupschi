@@ -102,6 +102,17 @@ Fullstack Development & Technical Mentorship.
 
 ---
 
+## 📚 Currently Learning
+
+- Advanced Angular architecture  
+- Backend fundamentals & database design  
+- Authentication & secure API handling  
+- Clean code & scalable project structure  
+
+Next step: Deep dive into backend systems starting April.
+
+---
+
 ⚙ Precision.  
 ⚽ Discipline.  
 💻 Code.
