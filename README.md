@@ -12,7 +12,7 @@
 🎮 Competitive Gamer  
 ⚽ Football Enthusiast  
 
-I like structured systems, clean architecture and scalable logic —  
+I like structured systems, clean architecture and scalable logic  
 whether it's in code or in competitive matches.
 
 ---
@@ -36,7 +36,7 @@ whether it's in code or in competitive matches.
 🎮 **PokeDex** – API-based dynamic Pokémon app  
 🛒 **Bestell-App** – JavaScript ordering logic system  
 📚 **BookStore** – Like & comment system with DOM logic  
-📸 **Fotogram** – Instagram-inspired UI project  
+📸 **Fotogram** – Instagram inspired UI project  
 👥 **Join** – Angular + Supabase team project (in progress)
 
 ---
@@ -66,7 +66,7 @@ whether it's in code or in competitive matches.
 
 ### 🎯 Mission 2026
 - Master Fullstack Architecture
-- Build scalable real-world applications
+- Build scalable real world applications
 - Combine Gaming Logic with System Design
 
 ---
