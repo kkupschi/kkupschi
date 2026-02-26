@@ -2,7 +2,7 @@
   <img src="github banner.png" alt="Banner" width="100%" />
 </p>
 
-# Kris Kupschi  
+# Kris "Kupschi"
 ### Fullstack Developer  
 
 Building structured systems — from industrial precision to modern software.
