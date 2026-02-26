@@ -1,72 +1,77 @@
-# Kris Kupschi
+# Kris Kupschi  
+### Fullstack Developer  
 
-Fullstack Developer  
-Angular • TypeScript • Supabase  
-
----
-
-## About Me
-
-I’m a Fullstack Developer focused on building modern, structured and scalable web applications.
-
-My main expertise lies in frontend development with Angular and TypeScript,  
-combined with backend integration using Supabase.
-
-I enjoy working with clean architecture, logical systems and real-world application structures.
+Building structured, scalable and modern web applications.
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
+
+I’m a Fullstack Developer with focus on:
+
+- ⚡ Angular & TypeScript
+- 🗄 Supabase & Backend Integration
+- 🔗 REST APIs
+- 🧠 Clean architecture & logical systems
+
+I enjoy combining technical precision with competitive mindset —  
+whether in development or on the football field.
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3 / SCSS
-- JavaScript
-- TypeScript
-- Angular
-- REST APIs
+![Tech](https://skillicons.dev/icons?i=html,css,js,ts,angular)
 
 ### Backend
-- Supabase
-- Database integration
-- Authentication
-- CRUD systems
+![Tech](https://skillicons.dev/icons?i=supabase)
 
 ### Tools
-- Git
-- NPM
-- VS Code
+![Tech](https://skillicons.dev/icons?i=git,npm,vscode)
 
 ---
 
-## Projects
+## 🚀 Selected Projects
 
-### Kochwelt
+### 🍳 Kochwelt  
 Structured recipe platform with dynamic content rendering.
 
-### PokeDex
+### 🎮 PokeDex  
 API-based application with filtering and dynamic data display.
 
-### Bestell-App
-JavaScript-based ordering logic system (offline project).
+### 🛒 Bestell-App  
+JavaScript ordering logic system (offline project).
 
-### BookStore
-Interactive bookstore application with like and comment functionality.
+### 📚 BookStore  
+Interactive bookstore with like & comment system.
 
-### Fotogram
-Instagram-inspired frontend project focusing on UI and layout systems.
+### 📸 Fotogram  
+Instagram-inspired UI project focused on layout and component logic.
 
-### Join (in progress)
+### 👥 Join (in progress)  
 Team-based Angular + Supabase project including authentication and backend integration.
 
 ---
 
-## Development Focus 2026
+## 📈 Development Goals
 
-- Strengthening backend architecture skills
-- Building scalable fullstack applications
-- Improving system design and clean code practices
+- Strengthen backend architecture skills
+- Build scalable fullstack applications
+- Improve system design & clean code
+- Transition from project-based development to product-level thinking
 
 ---
 
-Always building. Always improving.
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkupschi&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkupschi&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+---
+
+⚽ Competitive mindset.  
+💻 Structured systems.  
+🚀 Long-term growth.
