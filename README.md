@@ -1,74 +1,72 @@
-# 🎮 Kris "Kupschi"
+# Kris Kupschi
 
-> Fullstack Developer  
-> Code. Compete. Level Up.
-
----
-
-## 🧠 About Me
-
-💻 Fullstack Developer with focus on modern web apps  
-⚡ Angular • TypeScript • Supabase  
-🎮 Competitive Gamer  
-⚽ Football Enthusiast  
-
-I like structured systems, clean architecture and scalable logic  
-whether it's in code or in competitive matches.
+Fullstack Developer  
+Angular • TypeScript • Supabase  
 
 ---
 
-## 🛠 Tech Arsenal
+## About Me
 
-### 🎯 Frontend
-![HTML5](https://skillicons.dev/icons?i=html,css,js,ts,angular)
+I’m a Fullstack Developer focused on building modern, structured and scalable web applications.
 
-### 🗄 Backend
-![Supabase](https://skillicons.dev/icons?i=supabase)
+My main expertise lies in frontend development with Angular and TypeScript,  
+combined with backend integration using Supabase.
 
-### ⚙ Tools
-![Tools](https://skillicons.dev/icons?i=git,npm,vscode)
+I enjoy working with clean architecture, logical systems and real-world application structures.
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-🔥 **Kochwelt** – Structured recipe platform  
-🎮 **PokeDex** – API-based dynamic Pokémon app  
-🛒 **Bestell-App** – JavaScript ordering logic system  
-📚 **BookStore** – Like & comment system with DOM logic  
-📸 **Fotogram** – Instagram inspired UI project  
-👥 **Join** – Angular + Supabase team project (in progress)
+### Frontend
+- HTML5
+- CSS3 / SCSS
+- JavaScript
+- TypeScript
+- Angular
+- REST APIs
 
----
+### Backend
+- Supabase
+- Database integration
+- Authentication
+- CRUD systems
 
-## 📊 Dev Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkupschi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkupschi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Current Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kkupschi&theme=tokyonight&hide_border=true"/>
-</p>
+### Tools
+- Git
+- NPM
+- VS Code
 
 ---
 
-## 🐍 Contribution Snake
+## Projects
 
-![Snake animation]([https://github.com/kkupschi/kkupschi/blob/output/github-contribution-grid-snake.svg](https://github.com/kkupschi/kkupschi/actions/runs/22446710434/workflow))
+### Kochwelt
+Structured recipe platform with dynamic content rendering.
+
+### PokeDex
+API-based application with filtering and dynamic data display.
+
+### Bestell-App
+JavaScript-based ordering logic system (offline project).
+
+### BookStore
+Interactive bookstore application with like and comment functionality.
+
+### Fotogram
+Instagram-inspired frontend project focusing on UI and layout systems.
+
+### Join (in progress)
+Team-based Angular + Supabase project including authentication and backend integration.
 
 ---
 
-### 🎯 Mission 2026
-- Master Fullstack Architecture
-- Build scalable real world applications
-- Combine Gaming Logic with System Design
+## Development Focus 2026
+
+- Strengthening backend architecture skills
+- Building scalable fullstack applications
+- Improving system design and clean code practices
 
 ---
 
-⭐ Always building. Always improving. Always leveling up.
+Always building. Always improving.
