@@ -84,11 +84,11 @@ Fullstack Development & Technical Mentorship.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkupschi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=kkupschi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkupschi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://metrics.lecoq.io/kkupschi?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FBerlin" />
 </p>
 
 ---
