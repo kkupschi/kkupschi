@@ -1,25 +1,55 @@
-# Kris Kupschi  
-### Fullstack Developer  
+# KRIS KUPSCHI  
+### System Builder • Fullstack Developer  
 
-Building structured, scalable and modern web applications.
-
----
-
-## 👨‍💻 About Me
-
-I’m a Fullstack Developer with focus on:
-
-- ⚡ Angular & TypeScript
-- 🗄 Supabase & Backend Integration
-- 🔗 REST APIs
-- 🧠 Clean architecture & logical systems
-
-I enjoy combining technical precision with competitive mindset —  
-whether in development or on the football field.
+> Precision forged in industry.  
+> Rebuilt for software architecture.
 
 ---
 
-## 🛠 Tech Stack
+## ORIGIN
+
+Born in December 1995.  
+Raised in competitive systems.
+
+Football shaped discipline and performance until 2020.  
+Industry shaped precision and responsibility.  
+Now building digital systems instead of mechanical ones.
+
+---
+
+## INDUSTRIAL BACKGROUND
+
+### Zerspanungsmechaniker  
+FS Metalltechnik GmbH (2016–2017)  
+Kreiselmeyer GmbH (2017–2018)
+
+### Werkzeugmacher  
+Ceratizit GmbH
+
+### Siemens AG
+
+**SMT (6 months)**  
+PCB production through automated machinery and solder processing.
+
+**HMI (6 months)**  
+Assembly, configuration, quality assurance and process optimization.  
+Trained as machine operator and junior team lead.
+
+---
+
+## TRANSFORMATION
+
+Currently in retraining as  
+**Fachinformatiker für Anwendungsentwicklung**
+
+Frontend phase until March.  
+Backend specialization starting April.
+
+Target: Fullstack Architecture & Mentorship.
+
+---
+
+## TECH STACK
 
 ### Frontend
 ![Tech](https://skillicons.dev/icons?i=html,css,js,ts,angular)
@@ -32,46 +62,28 @@ whether in development or on the football field.
 
 ---
 
-## 🚀 Selected Projects
+## ACTIVE PROJECTS
 
-### 🍳 Kochwelt  
-Structured recipe platform with dynamic content rendering.
-
-### 🎮 PokeDex  
-API-based application with filtering and dynamic data display.
-
-### 🛒 Bestell-App  
-JavaScript ordering logic system (offline project).
-
-### 📚 BookStore  
-Interactive bookstore with like & comment system.
-
-### 📸 Fotogram  
-Instagram-inspired UI project focused on layout and component logic.
-
-### 👥 Join (in progress)  
-Team-based Angular + Supabase project including authentication and backend integration.
+Kochwelt  
+PokeDex  
+Bestell-App  
+BookStore  
+Fotogram  
+Join (Angular + Supabase)
 
 ---
 
-## 📈 Development Goals
+## SYSTEM OBJECTIVE
 
-- Strengthen backend architecture skills
-- Build scalable fullstack applications
-- Improve system design & clean code
-- Transition from project-based development to product-level thinking
+Build scalable, structured and intelligent applications.
 
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkupschi&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkupschi&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+Long-term vision:
+- Fullstack Developer
+- System Architect
+- Mentor / Technical Educator
 
 ---
 
-⚽ Competitive mindset.  
-💻 Structured systems.  
-🚀 Long-term growth.
+⚡ Discipline from sports.  
+⚙ Precision from industry.  
+💻 Logic rebuilt in code.
