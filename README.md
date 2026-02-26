@@ -1,6 +1,7 @@
 <p align="center">
   <img src="github banner.png" alt="Banner" width="100%" />
 </p>
+
 # Kris Kupschi  
 ### Fullstack Developer  
 
